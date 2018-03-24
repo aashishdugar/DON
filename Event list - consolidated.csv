@@ -1,0 +1,781 @@
+Country,Disease,Count
+algeria,MERS-CoV,1
+algeria Count,MERS-CoV,1
+angola,Yellow fever,1
+angola,Yellow fever,1
+angola,Yellow fever,1
+angola,Yellow fever,1
+angola Count,Yellow fever,4
+argentina,Chikungunya,1
+argentina Count,Chikungunya,1
+austria,MERS-CoV,1
+austria,MERS-CoV,1
+austria Count,MERS-CoV,2
+bahrain,MERS-CoV,1
+bahrain Count,MERS-CoV,1
+benin,Lassa fever,1
+benin,Lassa fever,1
+benin Count,Lassa fever,2
+benin,Meningococcal disease,1
+benin Count,Meningococcal disease,1
+brazil,Measles,1
+brazil Count,Measles,1
+brazil,Microcephaly,1
+brazil,Microcephaly,1
+brazil,Microcephaly,1
+brazil,Microcephaly,1
+brazil Count,Microcephaly,4
+brazil,Zika virus infection,1
+brazil Count,Zika virus infection,1
+burkina_faso,Dengue fever,1
+burkina_faso Count,Dengue fever,1
+burkina_faso,Meningococcal disease,1
+burkina_faso Count,Meningococcal disease,1
+cambodia,Avian influenza,1
+cambodia Count,Avian influenza,1
+canada,Avian influenza,1
+canada,Avian influenza,1
+canada Count,Avian influenza,2
+canada,Measles,1
+canada Count,Measles,1
+cape_verde,Zika virus infection,1
+cape_verde Count,Zika virus infection,1
+central_africa,Monkeypox,1
+central_africa Count,Monkeypox,1
+chad,Meningococcal disease,1
+chad Count,Meningococcal disease,1
+chad,Yellow fever,1
+chad Count,Yellow fever,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china,Avian influenza,1
+china Count,Avian influenza,125
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china,Influenza,1
+china Count,Influenza,14
+china,MERS-CoV,1
+china Count,MERS-CoV,1
+china,Yellow fever,1
+china,Yellow fever,1
+china,Yellow fever,1
+china Count,Yellow fever,3
+colombia,Zika virus infection,1
+colombia Count,Zika virus infection,1
+congo,Cholera,1
+congo Count,Cholera,1
+congo,Ebola virus disease,1
+congo,Ebola virus disease,1
+congo Count,Ebola virus disease,2
+congo,Yellow fever,1
+congo,Yellow fever,1
+congo,Yellow fever,1
+congo,Yellow fever,1
+congo,Yellow fever,1
+congo Count,Yellow fever,5
+egypt,Dengue fever,1
+egypt Count,Dengue fever,1
+egypt,MERS-CoV,1
+egypt Count,MERS-CoV,1
+ethiopia,Yellow fever,1
+ethiopia Count,Yellow fever,1
+france,Chikungunya,1
+france,Chikungunya,1
+france Count,Chikungunya,2
+france,Microcephaly,1
+france,Microcephaly,1
+france Count,Microcephaly,2
+france,Zika virus infection,1
+france,Zika virus infection,1
+france,Zika virus infection,1
+france Count,Zika virus infection,3
+germany,Lassa fever,1
+germany,Lassa fever,1
+germany Count,Lassa fever,2
+germany,MERS-CoV,1
+germany Count,MERS-CoV,1
+ghana,Meningococcal disease,1
+ghana Count,Meningococcal disease,1
+greece,MERS-CoV,1
+greece Count,MERS-CoV,1
+guatemala,Zika virus infection,1
+guatemala Count,Zika virus infection,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea,Ebola virus disease,1
+guinea Count,Ebola virus disease,49
+guinea,Meningococcal disease,1
+guinea Count,Meningococcal disease,1
+haiti,Zika virus infection,1
+haiti Count,Zika virus infection,1
+honduras,Zika virus infection,1
+honduras Count,Zika virus infection,1
+iran,MERS-CoV,1
+iran,MERS-CoV,1
+iran,MERS-CoV,1
+iran,MERS-CoV,1
+iran,MERS-CoV,1
+iran Count,MERS-CoV,5
+iraq,Cholera,1
+iraq,Cholera,1
+iraq,Cholera,1
+iraq Count,Cholera,3
+italy,Ebola virus disease,1
+italy Count,Ebola virus disease,1
+italy,MERS-CoV,1
+italy,MERS-CoV,1
+italy,MERS-CoV,1
+italy Count,MERS-CoV,3
+ivory_coast,Meningococcal disease,1
+ivory_coast Count,Meningococcal disease,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan,MERS-CoV,1
+jordan Count,MERS-CoV,12
+kenya,Yellow fever,1
+kenya Count,Yellow fever,1
+korea,Acute respiratory syndrome,1
+korea Count,Acute respiratory syndrome,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea,MERS-CoV,1
+korea Count,MERS-CoV,22
+kuwait,MERS-CoV,1
+kuwait,MERS-CoV,1
+kuwait Count,MERS-CoV,2
+lebanon,MERS-CoV,1
+lebanon Count,MERS-CoV,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia,Ebola virus disease,1
+liberia Count,Ebola virus disease,48
+liberia,Lassa fever,1
+liberia Count,Lassa fever,1
+madagascar,Plague,1
+madagascar,Plague,1
+madagascar Count,Plague,2
+malaysia,Avian influenza,1
+malaysia Count,Avian influenza,1
+malaysia,MERS-CoV,1
+malaysia Count,MERS-CoV,1
+mali,Ebola virus disease,1
+mali,Ebola virus disease,1
+mali,Ebola virus disease,1
+mali,Ebola virus disease,1
+mali,Ebola virus disease,1
+mali Count,Ebola virus disease,5
+mexico,Cholera,1
+mexico,Cholera,1
+mexico,Cholera,1
+mexico,Cholera,1
+mexico Count,Cholera,4
+mexico,Measles,1
+mexico Count,Measles,1
+mexico,Zika virus infection,1
+mexico Count,Zika virus infection,1
+netherlands,MERS-CoV,1
+netherlands,MERS-CoV,1
+netherlands Count,MERS-CoV,2
+netherlands,Zika virus infection,1
+netherlands,Zika virus infection,1
+netherlands,Zika virus infection,1
+netherlands Count,Zika virus infection,3
+niger,Meningococcal disease,1
+niger,Meningococcal disease,1
+niger,Meningococcal disease,1
+niger Count,Meningococcal disease,3
+niger,Rift Valley fever,1
+niger,Rift Valley fever,1
+niger Count,Rift Valley fever,2
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria,Ebola virus disease,1
+nigeria Count,Ebola virus disease,12
+nigeria,Lassa fever,1
+nigeria,Lassa fever,1
+nigeria Count,Lassa fever,2
+nigeria,Meningococcal disease,1
+nigeria Count,Meningococcal disease,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman,MERS-CoV,1
+oman Count,MERS-CoV,9
+panama,Microcephaly,1
+panama Count,Microcephaly,1
+panama,Zika virus infection,1
+panama,Zika virus infection,1
+panama Count,Zika virus infection,2
+paraguay,Zika virus infection,1
+paraguay Count,Zika virus infection,1
+peru,Oropouche virus disease,1
+peru Count,Oropouche virus disease,1
+peru,Zika virus infection,1
+peru Count,Zika virus infection,1
+philippines,MERS-CoV,1
+philippines,MERS-CoV,1
+philippines,MERS-CoV,1
+philippines Count,MERS-CoV,3
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar,MERS-CoV,1
+qatar Count,MERS-CoV,15
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia,MERS-CoV,1
+saudi_arabia Count,MERS-CoV,133
+senegal,Chikungunya,1
+senegal Count,Chikungunya,1
+senegal,Ebola virus disease,1
+senegal,Ebola virus disease,1
+senegal Count,Ebola virus disease,2
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone,Ebola virus disease,1
+sierra_leone Count,Ebola virus disease,45
+spain,Chikungunya,1
+spain,Chikungunya,1
+spain Count,Chikungunya,2
+spain,Ebola virus disease,1
+spain Count,Ebola virus disease,1
+spain,MERS-CoV,1
+spain Count,MERS-CoV,1
+sudan,Cholera,1
+sudan Count,Cholera,1
+usa,Ebola virus disease,1
+usa,Elizabethkingia,1
+usa,Enterovirus,1
+sudan,Haemorrhagic fever syndrome,1
+sudan Count,Haemorrhagic fever syndrome,1
+sudan,Meningococcal disease,1
+sudan Count,Meningococcal disease,1
+suriname,Zika virus infection,1
+suriname,Zika virus infection,1
+suriname Count,Zika virus infection,2
+sweden,Lassa fever,1
+sweden Count,Lassa fever,1
+tanzania,Cholera,1
+tanzania,Cholera,1
+tanzania,Cholera,1
+tanzania,Cholera,1
+tanzania Count,Cholera,4
+thailand,MERS-CoV,1
+thailand,MERS-CoV,1
+thailand,MERS-CoV,1
+thailand,MERS-CoV,1
+thailand Count,MERS-CoV,4
+togo,Lassa fever,1
+togo Count,Lassa fever,1
+tunisia,MERS-CoV,1
+tunisia Count,MERS-CoV,1
+turkey,MERS-CoV,1
+turkey Count,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae,MERS-CoV,1
+uae Count,MERS-CoV,29
+uganda,Typhoid fever,1
+uganda Count,Typhoid fever,1
+uganda,Yellow fever,1
+uganda Count,Yellow fever,1
+usa,Chikungunya,1
+usa Count,Chikungunya,1
+usa,Lassa fever,1
+usa Count,Lassa fever,1
+usa,Measles,1
+usa Count,Measles,1
+usa,MERS-CoV,1
+usa,MERS-CoV,1
+usa,MERS-CoV,1
+usa Count,MERS-CoV,3
+usa,Microcephaly,1
+usa Count,Microcephaly,1
+usa,Zika virus infection,1
+usa,Zika virus infection,1
+usa,Zika virus infection,1
+usa Count,Zika virus infection,3
+venezuela,Zika virus infection,1
+venezuela Count,Zika virus infection,1
+vietnam,Zika virus infection,1
+vietnam Count,Zika virus infection,1
+yemen,MERS-CoV,1
+yemen Count,MERS-CoV,1
+,,
+,,
+Grand Count,,671
