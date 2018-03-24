@@ -1,0 +1,110 @@
+Country,Disease,Count
+algeria,MERS-CoV,1
+angola,Yellow fever,4
+argentina,Chikungunya,1
+austria,MERS-CoV,2
+bahrain,MERS-CoV,1
+benin,Lassa fever,2
+benin,Meningococcal disease,1
+brazil,Measles,1
+brazil,Microcephaly,4
+brazil,Zika virus infection,1
+burkina_faso,Dengue fever,1
+burkina_faso,Meningococcal disease,1
+cambodia,Avian influenza,1
+canada,Avian influenza,2
+canada,Measles,1
+cape_verde,Zika virus infection,1
+central_africa,Monkeypox,1
+chad,Meningococcal disease,1
+chad,Yellow fever,1
+china,Avian influenza,125
+china,Influenza,14
+china,MERS-CoV,1
+china,Yellow fever,3
+colombia,Zika virus infection,1
+congo,Cholera,1
+congo,Ebola virus disease,2
+congo,Yellow fever,5
+egypt,Dengue fever,1
+egypt,MERS-CoV,1
+ethiopia,Yellow fever,1
+france,Chikungunya,2
+france,Microcephaly,2
+france,Zika virus infection,3
+germany,Lassa fever,2
+germany,MERS-CoV,1
+ghana,Meningococcal disease,1
+greece,MERS-CoV,1
+guatemala,Zika virus infection,1
+guinea,Ebola virus disease,49
+guinea,Meningococcal disease,1
+haiti,Zika virus infection,1
+honduras,Zika virus infection,1
+iran,MERS-CoV,5
+iraq,Cholera,3
+italy,Ebola virus disease,1
+italy,MERS-CoV,3
+ivory_coast,Meningococcal disease,1
+jordan,MERS-CoV,12
+kenya,Yellow fever,1
+korea,Acute respiratory syndrome,1
+korea,MERS-CoV,22
+kuwait,MERS-CoV,2
+lebanon,MERS-CoV,1
+liberia,Ebola virus disease,48
+liberia,Lassa fever,1
+madagascar,Plague,2
+malaysia,Avian influenza,1
+malaysia,MERS-CoV,1
+mali,Ebola virus disease,5
+mexico,Cholera,4
+mexico,Measles,1
+mexico,Zika virus infection,1
+netherlands,MERS-CoV,2
+netherlands,Zika virus infection,3
+niger,Meningococcal disease,3
+niger,Rift Valley fever,2
+nigeria,Ebola virus disease,12
+nigeria,Lassa fever,2
+nigeria,Meningococcal disease,1
+oman,MERS-CoV,9
+panama,Microcephaly,1
+panama,Zika virus infection,2
+paraguay,Zika virus infection,1
+peru,Oropouche virus disease,1
+peru,Zika virus infection,1
+philippines,MERS-CoV,3
+qatar,MERS-CoV,15
+saudi_arabia,MERS-CoV,133
+senegal,Chikungunya,1
+senegal,Ebola virus disease,2
+sierra_leone,Ebola virus disease,45
+spain,Chikungunya,2
+spain,Ebola virus disease,1
+spain,MERS-CoV,1
+sudan,Cholera,1
+sudan,Haemorrhagic fever syndrome,1
+sudan,Meningococcal disease,1
+suriname,Zika virus infection,2
+sweden,Lassa fever,1
+tanzania,Cholera,4
+thailand,MERS-CoV,4
+togo,Lassa fever,1
+tunisia,MERS-CoV,1
+turkey,MERS-CoV,1
+uae,MERS-CoV,29
+uganda,Typhoid fever,1
+uganda,Yellow fever,1
+usa,Chikungunya,1
+usa,Lassa fever,1
+usa,Measles,1
+usa,MERS-CoV,3
+usa,Microcephaly,1
+usa,Zika virus infection,3
+venezuela,Zika virus infection,1
+vietnam,Zika virus infection,1
+yemen,MERS-CoV,1
+,,
+,,
+Grand Total,,671
