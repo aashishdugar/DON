@@ -18,7 +18,7 @@ sir <- function(time, state, parameters) {
 ## Proportion in each compartment: Susceptible 0.999999, Infected 0.000001, Recovered 0
 init       <- c(S = 1-1e-6, I = 1e-6, R = 0.0)
 ## beta: infection parameter; gamma: recovery parameter
-parameters <- c(beta = 1.4247, gamma = 0.14286)
+parameters <- c(beta = 0.2, gamma = -0.666)
 ## Time frame
 #times      <- seq(0, 70, by = 1)
 times <- seq(as.Date("2013/05/14"),as.Date("2016/12/19"),by = "week")
