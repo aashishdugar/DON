@@ -889,9 +889,9 @@ def grangercausalitytests(x, x_test, mxlg, autolag=None, alpha=0.0001, max_iter=
     best_vars = {}
     for (i,x) in non_zeros:
         k = math.floor((i+1)/(mxlg))
-        if k not in non_zero_vars or abs(x) > best_vars[k]:
+        if k not in non_zero_vars or abs(x) > abs(best_vars[k]):
             non_zero_vars[k] = (i+1)%(mxlg)
-            best_vars[k] = abs(x)
+            best_vars[k] = x
     return (rmse , non_zero_vars, best_vars)
 
 
