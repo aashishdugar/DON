@@ -38,3 +38,10 @@ rslt = joined.collect()
 
 inner_join =  ds.join(filtered, filtered.date==ds.datetime, 'inner')
 inner_rslt = inner_join.collect()
+
+#Saudi Arabia
+
+ds = dis.filter((dis['GEO_COUNTRYCODE']=='SA') | (dis['GEO_COUNTRYCODE']=='BA') | (dis['GEO_COUNTRYCODE']=='EG') | (dis['GEO_COUNTRYCODE']=='IR') | (dis['GEO_COUNTRYCODE']=='JO') | (dis['GEO_COUNTRYCODE']=='KU') | (dis['GEO_COUNTRYCODE']=='LE') | (dis['GEO_COUNTRYCODE']=='MU') | (dis['GEO_COUNTRYCODE']=='QA') | (dis['GEO_COUNTRYCODE']=='TS') | (dis['GEO_COUNTRYCODE']=='AE') | (dis['GEO_COUNTRYCODE']=='YM'))
+ds = ds.filter((dis['COUNTTYPE']=='KILL') | (dis['COUNTTYPE']=='WOUND') | (dis['COUNTTYPE']=='SICKENED') | (dis['COUNTTYPE']=='AFFECT'))
+rslt = ds.select(col('DATE'), col('NUMBER'), col('GEO_COUNTRYCODE'), col('COUNTTYPE'))
+rslt.toPandas().to_pickle('/home/ab7325/me_events')
